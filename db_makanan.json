@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nama": "Mie Gacoan",
+    "deskripsi": "Mie pedas level dewa dengan ayam cincang dan pangsit goreng renyah.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mie_Ayam_Pangsit_Jakarta.jpg/800px-Mie_Ayam_Pangsit_Jakarta.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "Paket Ayam Koplo",
+    "deskripsi": "Nasi ayam geprek dengan ekstra sambal matah.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ayam_geprek_2.jpg/800px-Ayam_geprek_2.jpg"
+  },
+  {
+    "id": 3,
+    "nama": "Topokki & Oden",
+    "deskripsi": "Kue beras pedas manis khas Korea dengan tambahan fishcake.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tteokbokki.jpg/800px-Tteokbokki.jpg"
+  }
+]
